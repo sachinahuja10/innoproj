@@ -1,4 +1,4 @@
 # innoproj
 starting repository for innovation project
-innovatio project for ducr
-ducr-delhi universty community radio
+innovatio project for ducr that satnds for delhi universty community radio
+
